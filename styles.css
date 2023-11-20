@@ -1,1 +1,96 @@
 /* your code here */
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Montserrat', sans-serif;
+}
+.content{
+	padding:20px;
+	background-color:black;
+	color:white;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	flex-wrap:wrap;
+	padding:10px;
+}
+.logo-details{
+	font-size:34px;
+	font-weight:bold;
+}
+.media-icons>a>img{
+	width:40px;
+	margin:5px;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	padding:10px;
+}
+.links,.services,.other,.contact{
+	height:200px;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-evenly;
+}
+.link-boxes>div>span{
+	font-size:20px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.link-boxes>div>a{
+	color:whitesmoke;
+	text-decoration:none;
+}
+
+.bottom-details{
+	color:floralwhite;
+	background-color:rgb(44,48,58);
+	padding:30px;
+	display:flex;
+	justify-content:space-between
+}
+/* .copy{
+	display:inline-block;
+	border:1px solid floralwhite;
+	padding:5px;
+	width:15px;
+	height:15px;
+	border-radius:50%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
